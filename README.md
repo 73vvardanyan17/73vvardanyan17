@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @73vvardanyan17
+- 👀 I’m interested in physiscs and programming
+- 🌱 I’m currently learning Python 
